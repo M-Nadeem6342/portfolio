@@ -1,0 +1,92 @@
+
+.bgimage{
+    height: 100vh;
+    background-image: url(https://images.unsplash.com/photo-1654868739497-ee031a3d7088?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+
+}
+.sgimage{
+    height: 60vh;
+    background-image: url(https://media.istockphoto.com/photos/medical-codes-and-accounts-manager-in-office-picture-id1341381556?b=1&k=20&m=1341381556&s=170667a&w=0&h=r0E8IhuG1SDQMy4iFH2SMPplxUxiKrHIq7qbq3I_0_w=);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.cgimage{
+    height: 80vh;
+    background-image: url(https://media.istockphoto.com/photos/need-help-contact-us-picture-id1257481057?b=1&k=20&m=1257481057&s=170667a&w=0&h=PoXYK0XBeu-B0WTOhXNYa56vUz2_WZTEZjjUpJ97Dr8=);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.agimage{
+    height: 80vh;
+    background-color: grey;
+    background-image: url();
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.pgimage{
+    height: 60vh;
+    background-image: url(https://images.unsplash.com/photo-1586281380117-5a60ae2050cc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cHJvamVjdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.hero-text{
+    color: rgb(239, 255, 11);
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.hero-title{
+    font-size: 4.5rem;
+    /* color: antiquewhite; */
+}
+.hero-detail{
+    font-size: 4rem;
+    color: yellow;
+}
+.my-image img{
+    margin-left: 20%;
+    width: 80%;
+    border-radius: 50%;
+
+}
+.card-body{
+    background-color: rgb(205, 197, 211);
+    text-align: center;
+}
+#skil{
+    
+    padding-top: 30px;
+}
+
+#home{background-color: bisque;
+}
+.nav-item:hover{
+    display: block;
+    background-color: rgb(205, 205, 221);
+}
+#margin{
+    margin-top: 30px;
+}
+.bio{
+    /* background-color: rgb(243, 243, 247); */
+    text-align: justify;
+    font-size: 30px;
+    
+
+}
+.perskill{
+    /* background-color: rgb(243, 243, 247); */
+    text-align: justify;
+    font-size: 30px;
+    
+
+}
